@@ -1,0 +1,80 @@
+// // {
+// // 	"version": "2.0.0",
+// // 	"tasks": [
+// // 		{
+// // 			"type": "cppbuild",
+// // 			"label": "C/C++: g++.exe build active file",
+// // 			"command": "C:\\msys64\\mingw64\\bin\\g++.exe",
+// // 			"args": [
+// // 				"-fdiagnostics-color=always",
+// // 				"-g",
+// // 				"${file}",
+// // 				"-o",
+// // 				"${fileDirname}\\${fileBasenameNoExtension}.exe"
+// // 			],
+// // 			"options": {
+// // 				"cwd": "${fileDirname}"
+// // 			},
+// // 			"problemMatcher": [
+// // 				"$gcc"
+// // 			],
+// // 			"group": "build",
+// // 			"detail": "compiler: C:\\msys64\\mingw64\\bin\\g++.exe"
+// // 		}
+// // 	]
+// // }
+
+// {
+//     "version": "2.0.0",
+//     "tasks": [
+//         {
+//             "label": "C/C++: g++.exe build active file",
+//             "type": "shell",
+//             "command": "C:\\msys64\\mingw64\\bin\\g++.exe",
+//             "args": [
+//                 "-fdiagnostics-color=always",
+//                 "-g",
+//                 "${file}",
+//                 "-o",
+//                 "${fileDirname}\\bin\\${fileBasenameNoExtension}.exe"
+//             ],
+//             "options": {
+//                 "cwd": "${fileDirname}"
+//             },
+//             "problemMatcher": [
+//                 "$gcc"
+//             ],
+//             "group": {
+//                 "kind": "build",
+//                 "isDefault": true
+//             },
+//             "detail": "compiler: C:\\msys64\\mingw64\\bin\\g++.exe"
+//         }
+//     ]
+// }
+
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "C/C++: Build and run",
+            "type": "shell",
+            "command": "cmd",
+            "args": [
+                "/c",
+                "mkdir output && g++ ${file} -o bin/${fileBasenameNoExtension}.exe && output/${fileBasenameNoExtension}.exe"
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Build and run C++ file, placing the output in the 'bin' directory"
+        }
+    ]
+}
