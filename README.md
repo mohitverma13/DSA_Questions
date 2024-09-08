@@ -16,3 +16,5 @@ A collection of Data Structures and Algorithms (DSA) questions designed to help 
 Symmetric_Pairs [here](https://github.com/mohitverma13/DSA_Questions/blob/main/Symmetric_Pairs.cpp).
 
 Sum of all Subarray (special case) [here](https://github.com/mohitverma13/DSA_Questions/blob/main/sum_of_all_subarray.cpp)
+
+Split Linked List in Parts [solution](https://github.com/mohitverma13/DSA_Questions/blob/main/Split_Linked_List_in_Parts.cpp) [LeetCode-725](https://leetcode.com/problems/split-linked-list-in-parts/description/)
