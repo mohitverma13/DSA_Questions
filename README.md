@@ -24,3 +24,5 @@ Spiral Matrix IV [solution](https://github.com/mohitverma13/DSA_Questions/blob/m
 Remove Consonent [solution](https://github.com/mohitverma13/DSA_Questions/blob/main/remove_Consonent.cpp)
 
 Insert Greatest Common Divisors in Linked List (MLE) [solution(MLE)](https://github.com/mohitverma13/DSA_Questions/blob/main/InsertGCDinLL.cpp) [Leetcode-2807](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/)
+
+Insert Greatest Common Divisors in Linked List (Accepted) [solution](https://github.com/mohitverma13/DSA_Questions/blob/main/InsertGCDinLL(Accepted).cpp) [Leetcode-2807](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/)
