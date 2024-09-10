@@ -22,3 +22,5 @@ Split Linked List in Parts [solution](https://github.com/mohitverma13/DSA_Questi
 Spiral Matrix IV [solution](https://github.com/mohitverma13/DSA_Questions/blob/main/SpiralMatrix4.cpp) [LeetCode-2326](https://leetcode.com/problems/spiral-matrix-iv/description/)
 
 Remove Consonent [solution](https://github.com/mohitverma13/DSA_Questions/blob/main/remove_Consonent.cpp)
+
+Insert Greatest Common Divisors in Linked List (MLE) [solution(MLE)](https://github.com/mohitverma13/DSA_Questions/blob/main/InsertGCDinLL.cpp) [Leetcode-2807](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/)
