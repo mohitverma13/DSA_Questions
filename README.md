@@ -28,3 +28,5 @@ Insert Greatest Common Divisors in Linked List (MLE) [solution(MLE)](https://git
 Insert Greatest Common Divisors in Linked List (Accepted) [solution](https://github.com/mohitverma13/DSA_Questions/blob/main/InsertGCDinLL(Accepted).cpp) [Leetcode-2807](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/)
 
 Minimum Bit Flips to Convert Number [solution](https://github.com/mohitverma13/DSA_Questions/blob/main/Minimum%20Bit_Flips_to_Convert_Number.cpp) [Leetcode-2220](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/)
+
+XOR Queries of a Subarray [solution](https://github.com/mohitverma13/DSA_Questions/blob/main/XOR_Queries_of_a_Subarray.cpp) [LeetCode-1310](https://leetcode.com/problems/xor-queries-of-a-subarray/description/)
