@@ -29,4 +29,8 @@ Insert Greatest Common Divisors in Linked List (Accepted) [solution](https://git
 
 Minimum Bit Flips to Convert Number [solution](https://github.com/mohitverma13/DSA_Questions/blob/main/Minimum%20Bit_Flips_to_Convert_Number.cpp) [Leetcode-2220](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/)
 
+Spiral Matrix [solution](https://github.com/mohitverma13/DSA_Questions/blob/main/Spiral_Matrix_1.cpp) [leetcode-54](https://leetcode.com/problems/spiral-matrix/)
+
 XOR Queries of a Subarray [solution](https://github.com/mohitverma13/DSA_Questions/blob/main/XOR_Queries_of_a_Subarray.cpp) [LeetCode-1310](https://leetcode.com/problems/xor-queries-of-a-subarray/description/)
+
+Nth natural number after removing all the numbers containing the digit 9. [solution](https://github.com/mohitverma13/DSA_Questions/blob/main/nth_natural_number_after_removing_all_the_numbers_containing_the_digit_9.cpp) [GFG](https://www.geeksforgeeks.org/problems/nth-natural-number/1)
