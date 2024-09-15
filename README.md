@@ -34,3 +34,5 @@ Spiral Matrix [solution](https://github.com/mohitverma13/DSA_Questions/blob/main
 XOR Queries of a Subarray [solution](https://github.com/mohitverma13/DSA_Questions/blob/main/XOR_Queries_of_a_Subarray.cpp) [LeetCode-1310](https://leetcode.com/problems/xor-queries-of-a-subarray/description/)
 
 Nth natural number after removing all the numbers containing the digit 9. [solution](https://github.com/mohitverma13/DSA_Questions/blob/main/nth_natural_number_after_removing_all_the_numbers_containing_the_digit_9.cpp) [GFG](https://www.geeksforgeeks.org/problems/nth-natural-number/1)
+
+Binary Tree to DLL [solution](https://github.com/mohitverma13/DSA_Questions/blob/main/Binary_Tree_to_DLL.cpp) [GFG](https://www.geeksforgeeks.org/problems/binary-tree-to-dll/1)
